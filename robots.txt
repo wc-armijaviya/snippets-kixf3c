@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wc-armijaviya.github.io/snippets-kixf3c/sitemap.xml
